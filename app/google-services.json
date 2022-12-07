@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359182847586",
+    "project_id": "movilesenviarsms",
+    "storage_bucket": "movilesenviarsms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359182847586:android:c53fdcdcd8f122c0928b3b",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.smsprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359182847586-t0fgkmkid434c8f6rs2o5qcp56ipi21p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEw_lvwjA7RAPpHcPZjNoH3vogSAQLUyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359182847586-t0fgkmkid434c8f6rs2o5qcp56ipi21p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
